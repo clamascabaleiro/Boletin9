@@ -26,7 +26,7 @@ public class Calcular {
           }
           JOptionPane.showMessageDialog(null, "Números positivos: " 
                + contPositivos + "\nNúmeros negativos: " 
-               + contNegativos + "\n Número de  ceros: " + contCeros);
+               + contNegativos + "\n Número de ceros: " + contCeros);
       }
 }
     
