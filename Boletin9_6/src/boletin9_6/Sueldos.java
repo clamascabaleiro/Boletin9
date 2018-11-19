@@ -26,6 +26,6 @@ public class Sueldos {
         }while(soldo != 0);
         JOptionPane.showMessageDialog(null, "Número de trabajadores que ganan entre 1000 y 1750€: " 
                 + contadorSueldos_1 + "\nPorcentaje de trabajadores que ganan menos de 1000€: " 
-                + (contadorSueldos_2*100/contadorTrabajadores));
+                + (contadorSueldos_2*100/contadorTrabajadores) + "%");
     }
 }
